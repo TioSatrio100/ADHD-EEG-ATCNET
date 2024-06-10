@@ -1,6 +1,6 @@
 # ADHD-EEG-ATCNET
 
-<br> data visualization and prediction of EEG data for ADHD sufferers </br> 
+<br> data visualization and prediction of EEG data from ADHD sufferers </br> 
 data visualization uses the mne library while data prediction uses CNN ATCNet
 
 # DATA VISUALIZATION USING MNE LIBRARY
